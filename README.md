@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shuchi Muley</h1>
-<h3 align="center">This account is a showcase of things I like working on:</h3>
+<h3 align="left">Here are things I like working on:</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-- 🌱 I’m currently learning React
+
 - 🌱 I’m currently working on completing Web Development Bootcamp
+
+- 🐥 I’m currently learning React
 
 - 💬 Ask me about **HTML, Javascript, EJS**
 
